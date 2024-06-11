@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanuda Senod</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanuda3088" alt="sanuda3088" /></a> </p>
 
 - 👨‍💻 Find my portfolio on [https://main.d3grbrtq9akwb3.amplifyapp.com/](https://main.d3grbrtq9akwb3.amplifyapp.com/)
 
