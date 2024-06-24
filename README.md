@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanuda-senod-7bb201214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanuda-senod-7bb201214/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21278681/sanuda-senod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21278681/sanuda-senod" height="30" width="40" /></a>
 <a href="https://medium.com/@sanudasenod446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanudasenod446" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sanudasenod446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sanudasenod446" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/sanudasenod446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sanudasenod446" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
